@@ -1,0 +1,83 @@
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+c:\users\vit\documents\visual studio 2010\Projects\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Correcciones\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Users\vit\Videos\Tablas1\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas2\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Users\vit\Videos\Tablas3\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Users\vit\Videos\Tablas4\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.vbproj.GenerateResource.Cache
+C:\Users\vit\Videos\Tablas6\Tablas_de_Presencia\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Bienvenida.resources
