@@ -81,6 +81,8 @@ Partial Class Form1
         'pnlShow
         '
         Me.pnlShow.BackColor = System.Drawing.Color.Transparent
+        Me.pnlShow.BackgroundImage = CType(resources.GetObject("pnlShow.BackgroundImage"), System.Drawing.Image)
+        Me.pnlShow.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.pnlShow.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.pnlShow.Controls.Add(Me.lblhora)
         Me.pnlShow.Controls.Add(Me.lblCondicion)

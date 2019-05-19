@@ -120,9 +120,7 @@
     <Compile Include="SerialReg.Designer.vb">
       <DependentUpon>SerialReg.vb</DependentUpon>
     </Compile>
-    <Compile Include="SerialReg.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="SerialReg.vb" />
     <Compile Include="Settings.vb" />
   </ItemGroup>
   <ItemGroup>
@@ -187,6 +185,12 @@
       <IncludeHash>True</IncludeHash>
       <FileType>Assembly</FileType>
     </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bart-simpsons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

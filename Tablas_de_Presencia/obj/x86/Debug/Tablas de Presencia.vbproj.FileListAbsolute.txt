@@ -158,3 +158,11 @@ C:\Tablas\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe.config
 C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.exe
 C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.xml
 C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.pdb
+C:\Tablas\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.exe
+C:\Tablas\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.pdb
+C:\Tablas\Tablas_de_Presencia\bin\Debug\Tablas_de_Presencia.xml
+C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Bienvenida.resources
+C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Form1.resources
+C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.Resources.resources
+C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas_de_Presencia.SerialReg.resources
+C:\Tablas\Tablas_de_Presencia\obj\x86\Debug\Tablas de Presencia.vbproj.GenerateResource.Cache

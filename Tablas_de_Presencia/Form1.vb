@@ -28,52 +28,52 @@
     Dim hora As Date
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
        
-        If My.Settings.ProReg = False Then
-            If My.Settings.Pro = False Then
-                Me.tmhora.Start()
-                Me.tmTiempo.Start()
-                Me.lblFact.Text = DateTime.Now
-                My.Settings.FeCa = DateTime.Now.AddSeconds(30)
-                My.Settings.Pro = True
-                My.Settings.Save()
-                Me.Size = New Size(Width:=519, Height:=399)
-                Me.gboxBtns.Location = New Point(16, 182)
-                Me.Label2.Location = New Point(90, 293)
-                Me.lblFcad.Location = New Point(318, 293)
-                Me.Label4.Location = New Point(110, 320)
-                Me.Label3.Location = New Point(214, 18)
-                Me.cmbMes.Location = New Point(291, 21)
-                Me.lbltab.Visible = False
-                Me.lblfecha.Visible = False
-                Me.pnlShow.Visible = False
-                Me.tmhora.Start()
-            Else
-                Me.tmhora.Start()
-                Me.tmTiempo.Start()
-                Me.lblFact.Text = DateTime.Now
-                Me.lblFcad.Text = My.Settings.FeCa
-                Me.Size = New Size(Width:=519, Height:=399)
-                Me.gboxBtns.Location = New Point(16, 182)
-                Me.Label2.Location = New Point(90, 293)
-                Me.lblFcad.Location = New Point(318, 293)
-                Me.Label4.Location = New Point(110, 320)
-                Me.Label3.Location = New Point(214, 18)
-                Me.cmbMes.Location = New Point(291, 21)
-                Me.lbltab.Visible = False
-                Me.lblfecha.Visible = False
-                Me.pnlShow.Visible = False
-                Me.tmhora.Start()
-            End If
-        Else
-            Me.Size = New Size(Width:=519, Height:=310)
-            Me.gboxBtns.Location = New Point(16, 182)
-            Me.Label3.Location = New Point(214, 18)
-            Me.cmbMes.Location = New Point(291, 21)
-            Me.lbltab.Visible = False
-            Me.lblfecha.Visible = False
-            Me.pnlShow.Visible = False
-            Me.tmhora.Start()
-        End If
+        'If My.Settings.ProReg = False Then
+        '    If My.Settings.Pro = False Then
+        '        Me.tmhora.Start()
+        '        Me.tmTiempo.Start()
+        '        Me.lblFact.Text = DateTime.Now
+        '        My.Settings.FeCa = DateTime.Now.AddSeconds(30)
+        '        My.Settings.Pro = True
+        '        My.Settings.Save()
+        '        Me.Size = New Size(Width:=519, Height:=399)
+        '        Me.gboxBtns.Location = New Point(16, 182)
+        '        Me.Label2.Location = New Point(90, 293)
+        '        Me.lblFcad.Location = New Point(318, 293)
+        '        Me.Label4.Location = New Point(110, 320)
+        '        Me.Label3.Location = New Point(214, 18)
+        '        Me.cmbMes.Location = New Point(291, 21)
+        '        Me.lbltab.Visible = False
+        '        Me.lblfecha.Visible = False
+        '        Me.pnlShow.Visible = False
+        '        Me.tmhora.Start()
+        '    Else
+        '        Me.tmhora.Start()
+        '        Me.tmTiempo.Start()
+        '        Me.lblFact.Text = DateTime.Now
+        '        Me.lblFcad.Text = My.Settings.FeCa
+        '        Me.Size = New Size(Width:=519, Height:=399)
+        '        Me.gboxBtns.Location = New Point(16, 182)
+        '        Me.Label2.Location = New Point(90, 293)
+        '        Me.lblFcad.Location = New Point(318, 293)
+        '        Me.Label4.Location = New Point(110, 320)
+        '        Me.Label3.Location = New Point(214, 18)
+        '        Me.cmbMes.Location = New Point(291, 21)
+        '        Me.lbltab.Visible = False
+        '        Me.lblfecha.Visible = False
+        '        Me.pnlShow.Visible = False
+        '        Me.tmhora.Start()
+        '    End If
+        'Else
+        Me.Size = New Size(Width:=519, Height:=310)
+        Me.gboxBtns.Location = New Point(16, 182)
+        Me.Label3.Location = New Point(214, 18)
+        Me.cmbMes.Location = New Point(291, 21)
+        Me.lbltab.Visible = False
+        Me.lblfecha.Visible = False
+        Me.pnlShow.Visible = False
+        Me.tmhora.Start()
+        'End If
         cambiarFecha(Date.Now)
     End Sub
     Public Property año As Integer
